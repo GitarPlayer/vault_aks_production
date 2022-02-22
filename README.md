@@ -1,2 +1,4 @@
-# vault_aks_production
-Short collection of scripts configs to properly setup a production ready vault cluster on aks
+# Setup ha vault k8s cluster on aks with raft backend
+```
+./setup_tls_vault_raft_ha_k8s.sh
+```
